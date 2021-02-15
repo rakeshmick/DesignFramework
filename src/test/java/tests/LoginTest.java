@@ -21,7 +21,7 @@ public class LoginTest {
 
         LoginPage loginPage = PageFactory.initElements(driver,LoginPage.class );
 
-        loginPage.logintoWordPress("testcodermick","Miclak@12");
+        loginPage.logintoWordPress("testcodermick","jhjhkkhkjh");
 
         loginPage.logOutWordPress();
     }
